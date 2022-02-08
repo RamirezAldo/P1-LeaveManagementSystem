@@ -4,3 +4,13 @@ This is a Microsoft Dynamics CRM Power Apps Canvas application in which a user c
 ## Technologies Used
 * Microsoft Sharepoint
 * Microsoft Dynamics 365 PowerApps Canvas App
+## Features
+* Securely Sign In
+* Securely Register
+* Profile pages contain user picture
+* profile pages can be edited
+* Unique PTO accrual for different departments
+* User can request time off
+* Selected manager recieves email to approve or deny request
+* Managers have access to approve/deny requests
+* Managers have acces to employee list and profile
